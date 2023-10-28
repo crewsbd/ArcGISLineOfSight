@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Line of Sight ArcGIS</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://js.arcgis.com/4.22/esri/themes/light/main.css">
+    <link rel="stylesheet" href="/styles/base.css">
+    <link rel="icon" type="image/x-icon" href="/images/logo.svg">
+</head>
+
+<body>
+    <header>
+        <img src="images/logo.svg" width="50px" ><h1>Line of Sight ArcGIS</h1>
+    </header>
+    <div id="content">
+        <div id="controls-view">
+            <div id="controls">
+                <h3>Transmitter</h3>
+                <input type="radio" name="selector" id="selector_t" checked="checked"><label>Latitude<input type="text" id="transmitter_latitude"></label><label>Longitude<input type="text"  id="transmitter_longitude"></label>
+                <h3>Receiver</h3>
+                <input type="radio" name="selector" id="selector_r"><label>Latitude<input type="text" id="receiver_latitude"></label><label>Longitude<input type="text" id="receiver_longitude"></label>
+                <input type="button" id="checkLOS" value="CHECK LINE OF SIGHT">
+                <h3>Filter</h3>
+                <div id="range_panel">
+                    <label>Lower frequency<input type="number" id="range_lower" value="144"></label><label>Upper frequency<input type="number" id="range_upper" value="450"></label>
+
+                    <input type="button" id="filter_button" value="FILTER">
+                </div>
+            </div>
+        </div>
+        <div id="mapView"></div>
+    </div>
+    <footer>Create by: Brian Crews - 2023</footer>
+
+    <script src="https://js.arcgis.com/4.22/"></script>
+    <script src="/scripts/secret.js"></script>
+    <script src="/scripts/base.js"></script>
+</body>
+
+</html>

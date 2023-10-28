@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.844539,
+                    37.109716
+                ]
+            },
+            "properties": {
+                "name": "Loma Prieta",
+                "callsign": "wb6oqs",
+                "longitude": -121.844539,
+                "latitude": 37.109716,
+                "frequency": 146.760,
+                "tone": 151.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.791923,
+                    37.084914
+                ]
+            },
+            "properties": {
+                "name": "Uvas CanyonX",
+                "callsign": "kj6vrc",
+                "longitude": -121.791923,
+                "latitude": 37.084914,
+                "frequency": 147.3,
+                "tone": 107.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.805208,
+                    37.216047
+                ]
+            },
+            "properties": {
+                "name": "Santa Teresa Foothills",
+                "callsign": "wa2ibm",
+                "longitude": -121.805208,
+                "latitude": 37.216047,
+                "frequency": 145.190,
+                "tone": 151.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.165594,
+                    37.402998
+                ]
+            },
+            "properties": {
+                "name": "Palo Alto",
+                "callsign": "n6nfi",
+                "longitude": -122.165594,
+                "latitude": 37.402998,
+                "frequency": 145.23,
+                "tone": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.232013,
+                    37.881109
+                ]
+            },
+            "properties": {
+                "name": "Grizzly Peak",
+                "callsign": "kb6led",
+                "longitude": -122.232013,
+                "latitude": 37.881109,
+                "frequency": 145.29,
+                "tone": 131.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.252961,
+                    37.429951
+                ]
+            },
+            "properties": {
+                "name": "Woodside",
+                "callsign": "n6zx",
+                "longitude": -122.252961,
+                "latitude": 37.429951,
+                "frequency": 145.37,
+                "tone": 107.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.90589235188143,
+                    37.428281232261234
+                ]
+            },
+            "properties": {
+                "name": "Milpitas",
+                "callsign": "w6mlp",
+                "longitude": -121.90589235188143,
+                "latitude": 37.428281232261234,
+                "frequency": 145.43,
+                "tone": 85.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.08114847700624,
+                    37.59633833053782
+                ]
+            },
+            "properties": {
+                "name": "Union City",
+                "callsign": "km6ef",
+                "longitude": -122.08114847700624,
+                "latitude": 37.59633833053782,
+                "frequency": 146.61,
+                "tone": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.95388842386,
+                    37.35378919316197
+                ]
+            },
+            "properties": {
+                "name": "Richmond Heights",
+                "callsign": "k6jsi",
+                "longitude": -121.95388842386,
+                "latitude": 37.35378919316197,
+                "frequency": 441.65,
+                "tone": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.89386811928233,
+                    37.33943960696765
+                ]
+            },
+            "properties": {
+                "name": "San Jose",
+                "callsign": "n6nac",
+                "longitude": -121.89386811928233,
+                "latitude": 37.33943960696765,
+                "frequency": 444.625,
+                "tone": 110.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39993085808815,
+                    37.79015357651493
+                ]
+            },
+            "properties": {
+                "name": "San Francisco",
+                "callsign": "k6tw",
+                "longitude": -122.39993085808815,
+                "latitude": 37.79015357651493,
+                "frequency": 444.725,
+                "tone": 114.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.94792568057142,
+                    37.25200701542217
+                ]
+            },
+            "properties": {
+                "name": "Good Samaritan Hospital",
+                "callsign": "wb6khp",
+                "longitude": -121.94792568057142,
+                "latitude": 37.25200701542217,
+                "frequency": 444.7,
+                "tone": 127.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.16577765497593,
+                    37.40337893334918
+                ]
+            },
+            "properties": {
+                "name": "Palo Alto",
+                "callsign": "n6bde",
+                "longitude": -122.16577765497593,
+                "latitude": 37.40337893334918,
+                "frequency": 440.2,
+                "tone": 123
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.92168655803611,
+                    37.61985247059279
+                ]
+            },
+            "properties": {
+                "name": "Pleasanton",
+                "callsign": "w6srr",
+                "longitude": -121.92168655803611,
+                "latitude": 37.61985247059279,
+                "frequency": 442.625,
+                "tone": 94.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.03889971783686,
+                    37.529611247025436
+                ]
+            },
+            "properties": {
+                "name": "Newark",
+                "callsign": "n3el",
+                "longitude": -122.03889971783686,
+                "latitude": 37.529611247025436,
+                "frequency": 444.15,
+                "tone": 103.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.08074253455526,
+                    37.668104911512096
+                ]
+            },
+            "properties": {
+                "name": "Hayward",
+                "callsign": "kq6yg",
+                "longitude": -122.08074253455526,
+                "latitude": 37.668104911512096,
+                "frequency": 442.875,
+                "tone": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.44679031731386,
+                    37.754520089069906
+                ]
+            },
+            "properties": {
+                "name": "Twin Peaks",
+                "callsign": "wa6gg",
+                "longitude": -122.44679031731386,
+                "latitude": 37.754520089069906,
+                "frequency": 442.05,
+                "tone": 127.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.33660298346476,
+                    37.537077221192185
+                ]
+            },
+            "properties": {
+                "name": "College of San Mateo",
+                "callsign": "k7cbl",
+                "longitude": -122.33660298346476,
+                "latitude": 37.537077221192185,
+                "frequency": 440.05,
+                "tone": 100
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42742025298004,
+                    37.52885339642024
+                ]
+            },
+            "properties": {
+                "name": "Montara Mountain",
+                "callsign": "wa6tow",
+                "longitude": -122.42742025298004,
+                "latitude": 37.52885339642024,
+                "frequency": 441.075,
+                "tone": 114.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.14131461165468,
+                    37.0996331297717
+                ]
+            },
+            "properties": {
+                "name": "Empire Grade",
+                "callsign": "w6dxw",
+                "longitude": -122.14131461165468,
+                "latitude": 37.0996331297717,
+                "frequency": 442.75,
+                "tone": 110.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.03004153725144,
+                    36.97422463094116
+                ]
+            },
+            "properties": {
+                "name": "Santa Cruz",
+                "callsign": "ab6vu",
+                "longitude": -122.03004153725144,
+                "latitude": 36.97422463094116,
+                "frequency": 440.55,
+                "tone": 94.8
+            }
+        }
+    ]
+}
